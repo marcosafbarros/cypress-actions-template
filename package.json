@@ -12,6 +12,5 @@
   "devDependencies": {
     "cypress": "12.5.1",
     "cypress-tesults-reporter": "1.2.0"
-"
   }
 }
