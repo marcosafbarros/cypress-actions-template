@@ -29,6 +29,6 @@ describe('Login', () => {
     it('com sucesso', () => {
         cy.login('qa', 'xperience')
         cy.get(modalContent)
-            .should('have.text', 'Suas credenciais são validas :)')
+            .should('have.text', 'Suas credenciais são válidas :)')
     })
 })
